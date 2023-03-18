@@ -1,3 +1,5 @@
+// GIN으로 작성된 http server
+
 package main
 
 import (
